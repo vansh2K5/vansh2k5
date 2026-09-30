@@ -174,7 +174,7 @@ flowchart TB
 | Period | Role | What I did |
 |---|---|---|
 | **Aug 2026 → Now** | **Hardware Design Contributor** · JeevanSetu *(sponsored, team of 4)* | Delivered two wearable prototypes for an eldercare startup; engineered a **three-tier alert architecture** (BLE → WiFi → ESP-NOW mesh); authored WiFi and **DPDP/HIPAA compliance** documentation. |
-| **Jun 2026 → Now** | **CTF Developer Intern** · OffSecDiary | Built and hosted CTF challenges on intentionally vulnerable web apps across 5+ vulnerability classes: **auth bypass, injection, business-logic exploits**. |
+| **Jun 2026 → September 2026** | **CTF Developer Intern** · OffSecDiary | Built and hosted CTF challenges on intentionally vulnerable web apps across 5+ vulnerability classes: **auth bypass, injection, business-logic exploits**. |
 | **Jun – Jul 2025** | **Software Development Intern** · Asmita Solutions | Built REST APIs and UI components with **Spring Boot, Angular, Ionic** and MySQL in an Agile team. |
 | **Jun – Aug 2024** | **Cloud Computing Intern** · Yhills Ed.Tech | Hands-on with **Azure** compute, storage, and networking services. |
 
